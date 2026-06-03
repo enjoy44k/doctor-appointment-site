@@ -32,7 +32,7 @@ export default function Home() {
           Удобная онлайн-запись на приём к специалистам без очередей и лишних звонков
         </p>
 <img
-  src="/doctor.jpg"
+  src="/doctor-appointment-site/doctor.jpg"
   alt="Врач"
   className="w-96 rounded-3xl shadow-2xl mt-8"
 />
